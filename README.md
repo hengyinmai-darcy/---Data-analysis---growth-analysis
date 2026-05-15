@@ -175,25 +175,25 @@ Netflix 平台内容数量在 2015 年后快速增长。
 
 ## 内容增长趋势图
 
-![增长趋势图](images/content_growth.png)
+![增长趋势图](image/content_growth.png)
 
 ---
 
 ## 年增长率趋势图
 
-![增长率趋势图](images/content_growth_rate.png)
+![增长率趋势图](image/content_growth_rate.png)
 
 ---
 
 ## 电影 vs 电视剧分析
 
-![电影电视剧分析](images/tv_vs_movie.png)
+![电影电视剧分析](image/tv_vs_movie.png)
 
 ---
 
 ## 电影 vs 电视剧增长率分析
 
-![电影电视剧分析](images/tv&movie_grow_trend.png)
+![电影电视剧分析](image/tv&movie_grow_trend.png)
 
 ---
 
