@@ -191,6 +191,12 @@ Netflix 平台内容数量在 2015 年后快速增长。
 
 ---
 
+## 电影 vs 电视剧增长率分析
+
+![电影电视剧分析](tv&movie_grow_trend.png)
+
+---
+
 # 技能展示 | Skills Demonstrated
 
 - Python 数据分析
